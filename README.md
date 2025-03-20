@@ -1,7 +1,7 @@
 # SISEP
 Sistema Integrado de Escolas Profissionais
-istema de Classificação de Notas
-Descrição
+
+# Descrição
 Projeto para gerenciamento de processos seletivos e cadastro de alunos. Permite o registro de cursos, cotas e notas dos alunos, além de exibir a classificação baseada em critérios pré-definidos.
 
 # Funcionalidades
