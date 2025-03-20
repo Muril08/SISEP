@@ -1,29 +1,26 @@
-# SISEP
-Sistema Integrado de Escolas Profissionais
+# Sistema Integrado de Escolas Profissionais  
 
-# Descrição
-Projeto para gerenciamento de processos seletivos e cadastro de alunos. Permite o registro de cursos, cotas e notas dos alunos, além de exibir a classificação baseada em critérios pré-definidos.
+## Descrição  
+Projeto para gerenciamento de processos seletivos e cadastro de alunos. Permite o registro de cursos, cotas e notas dos alunos, além de exibir a classificação baseada em critérios pré-definidos.  
 
-# Funcionalidades
-Login:
-Autenticação de usuários (escolas) previamente cadastrados.
+## Funcionalidades  
 
-# Dashboard:
-Exibição de estatísticas gerais e navegação para cadastro de processos seletivos e alunos.
+- **Login:** Autenticação de usuários (escolas) previamente cadastrados.  
+- **Dashboard:** Exibição de estatísticas gerais e navegação para cadastro de processos seletivos e alunos.  
+- **Cadastro de Processo Seletivo:** Registro de processos seletivos com cursos e cotas (vagas por cota).  
+- **Cadastro de Aluno:** Inclusão de dados do aluno (nome, CPF, RG, idade, endereço, processo seletivo, curso, cota e histórico de notas).  
+- **Classificação de Alunos:** Exibição da classificação dos alunos baseada em suas notas e nos parâmetros configurados.  
 
-# Cadastro de Processo Seletivo:
-Registro de processos seletivos com cursos e cotas (vagas por cota).
-
-# Cadastro de Aluno:
-Inclusão de dados do aluno (nome, CPF, RG, idade, endereço, processo seletivo, curso, cota e histórico de notas).
-
-# Classificação de Alunos:
-Exibição da classificação dos alunos baseada em suas notas e nos parâmetros configurados.
-
-### Equipe  
+## Equipe  
 - **Líder de Projeto** – Antonio Mateus (*teuosx*)  
 - **Desenvolvedor Backend** – Eduarda Noronha (*Eduarrda7444*)  
 - **Desenvolvedor Backend** – Murilo Alves (*Muril08*)  
 - **Desenvolvedor Backend** – Emilly Vitoria (*emillyfernb*)  
 - **Desenvolvedor Frontend e Designer** – Julio Cesar  
 - **Desenvolvedor Frontend e Designer** – Daniel Eduardo  
+
+## Clone o Repositório  
+Para obter o código-fonte do projeto, utilize o seguinte comando:  
+
+```bash
+git clone https://github.com/Muril08/SISEP.git
